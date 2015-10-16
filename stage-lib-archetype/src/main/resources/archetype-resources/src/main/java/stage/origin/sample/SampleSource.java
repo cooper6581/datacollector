@@ -19,7 +19,7 @@
  */
 package ${groupId}.stage.origin.sample;
 
-import com.adamkunicki.streamsets.stage.lib.sample.Errors;
+import ${groupId}.stage.lib.sample.Errors;
 import com.streamsets.pipeline.api.BatchMaker;
 import com.streamsets.pipeline.api.Field;
 import com.streamsets.pipeline.api.Record;

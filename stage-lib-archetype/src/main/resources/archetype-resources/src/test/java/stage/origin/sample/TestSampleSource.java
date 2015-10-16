@@ -19,7 +19,7 @@
  */
 package ${groupId}.stage.origin.sample;
 
-import com.adamkunicki.streamsets.stage.origin.sample.SampleSource;
+import ${groupId}.stage.origin.sample.SampleSource;
 import com.streamsets.pipeline.api.Record;
 import com.streamsets.pipeline.sdk.SourceRunner;
 import com.streamsets.pipeline.sdk.StageRunner;

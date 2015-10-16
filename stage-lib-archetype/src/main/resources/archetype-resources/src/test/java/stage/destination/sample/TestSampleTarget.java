@@ -20,7 +20,7 @@
 package ${groupId}.stage.destination.sample;
 
 import _ss_com.com.google.common.collect.ImmutableList;
-import com.adamkunicki.streamsets.stage.destination.sample.SampleTarget;
+import ${groupId}.stage.destination.sample.SampleTarget;
 import com.streamsets.pipeline.api.Field;
 import com.streamsets.pipeline.api.Record;
 import com.streamsets.pipeline.sdk.RecordCreator;
